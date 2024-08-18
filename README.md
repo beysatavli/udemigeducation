@@ -1,6 +1,6 @@
 # udemigeducation
 
-# Ekran Kaydı: ![Uploading GIFMaker_me.gif…]()
+# Ekran Kaydı: ![Uploading GIFMaker_me.gif…]();
 
 
 
